@@ -25,7 +25,7 @@ Kaggle Link: https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-langu
 When creating a network for our dataset only two steps are needed. 
 
 <ol>
-  <li>Run the splitData.m script to get mat files for the val, train, and test data used for training and validation</li>
+  <li>Run the splitData.m script to get mat files for the val, train, and test data used for training</li>
   <li>Run either the alexnet_net.m or vgg16_net.m scripts to create a network trained on the split datasets</li>
 </ol>
 
