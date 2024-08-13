@@ -43,3 +43,8 @@ To test how the network performs on the test set use the networkTable.m script t
   <li>camera.m uses base integrated camera. This can modified within the script. Ensure that the proper camera is being used </li>
   <li>Run camera.m to begin live translations</li>
 </ol>
+
+## Notes
+<ol>
+  <li>extractfeatures.m and appendletters.m are experimental code files and are not contributory to training a network or running the translator</li>
+</ol>
