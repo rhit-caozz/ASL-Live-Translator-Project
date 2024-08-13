@@ -6,9 +6,11 @@ Image recognition project
 Computer Vision Toolbox v 24.1 <br>
 Deep Learning Toolbox v 24.1 <br>
 Deep Learning Toolbox Model for Alex Network v 24.1.0 <br>
+Deep Learning Toolbox Model for VGG-16 Network v 24.1.0 (Optional for training a VGG-16 Network)<br>
 Image Processing Toolbox v 24.1 <br>
 Matlab Support Package for USB Webcams v 24.1.1 <br>
 Statistics and Machine Learning Toolbox v 24.1 <br>
+Parallel Computing Toolbox v 24.1 (Optional for training using the parallel-gpu or auto options)<br>
 
 ## Data
 ASL(American Sign Language) Alphabet Dataset<br>
