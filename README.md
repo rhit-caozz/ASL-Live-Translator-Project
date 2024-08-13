@@ -34,3 +34,12 @@ When creating a network for our dataset only two steps are needed.
 ## Testing the Networks Performance
 
 To test how the network performs on the test set use the networkTable.m script to create a table of information regarding how the networks performs on your test set
+
+## Running Live Translator
+
+<ol>
+  <li>Download Kaggle ASL Dataset and alex_net trained classifier into the same directory as camera.m </li>
+  <li>Unzip Kaggle dataset and have the top level directory - default name 'archive' - into the same directory as camera.m </li>
+  <li>camera.m uses base integrated camera. This can modified within the script. Ensure that the proper camera is being used </li>
+  <li>Run camera.m to begin live translations</li>
+</ol>
