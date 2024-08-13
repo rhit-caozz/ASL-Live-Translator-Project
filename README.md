@@ -28,3 +28,7 @@ When creating a network for our dataset only two steps are needed.
   <li>Run the splitData.m script to get mat files for the val, train, and test data used for training and validation</li>
   <li>Run either the alexnet_net.m or vgg16_net.m scripts to create a network trained on the split datasets</li>
 </ol>
+
+## Testing the Networks Performance
+
+To test how the network performs on the test set use the networkTable.m script to create a table of information regarding how the networks performs on your test set
