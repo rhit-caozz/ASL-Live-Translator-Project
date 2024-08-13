@@ -38,7 +38,7 @@ To test how the network performs on the test set use the networkTable.m script t
 ## Running Live Translator
 
 <ol>
-  <li>Download Kaggle ASL Dataset and alex_net trained classifier into the same directory as camera.m </li>
+  <li>Download Kaggle ASL Dataset and alex_net trained classifier (via running alex_net.mat and saving the trained network) into the same directory as camera.m </li>
   <li>Ensure alex_net.mat and camera.m are in the same directory </li>
   <li>camera.m uses base integrated camera. This can modified within the script. Ensure that the proper camera is being used </li>
   <li>Run camera.m to begin live translations</li>
