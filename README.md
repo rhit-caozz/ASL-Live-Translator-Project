@@ -14,7 +14,7 @@ Statistics and Machine Learning Toolbox v 24.1 <br>
 ASL(American Sign Language) Alphabet Dataset<br>
 Kaggle Link: https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language-aplhabet-dataset/data
 
-### installation
+### Installation
 <ol>
   <li>Extract the Dataset</li>
   <li>Put the ASL_Alphabet_Dataset folder in the same directory as all of the matlab files</li>
